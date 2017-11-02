@@ -1,2 +1,7 @@
 # afl-swift
-use afl to fuzz swift program
+TODO: add binary and patch
+
+# snapshots
+![](image/afl-swift-3.png)
+
+
