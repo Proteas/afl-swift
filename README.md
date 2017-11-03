@@ -4,6 +4,6 @@
 * AFL: v2.39b
 
 # Snapshot
-![](image/afl-swift-3.png)
-
+![](image/afl-swift-fuzzing.png)
+![](image/afl-swift-re.png)
 
